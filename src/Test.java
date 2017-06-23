@@ -19,6 +19,7 @@ public class Test {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
+        System.out.println("Hallo Welt!");
     }
 
     public Test(){
